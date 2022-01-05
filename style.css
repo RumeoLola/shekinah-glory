@@ -238,6 +238,7 @@ footer  {
     width: 100%;
     background-color: #36454f;
     text-align: center;
+    display: inline-block;
 }
 
 footer  p   {
