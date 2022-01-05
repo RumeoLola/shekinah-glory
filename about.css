@@ -176,6 +176,11 @@ body   {
     box-shadow: 0 0 10px #36454f;
 }
 
+.meal   div img:hover   {
+    cursor: pointer;
+    box-shadow: 0 0 10px #fff;
+}
+
 .meal   div   h1  {
     position: absolute;
     bottom: 0;
@@ -233,6 +238,7 @@ footer  {
     width: 100%;
     background-color: #36454f;
     text-align: center;
+    display: inline-block;
 }
 
 footer  p   {
